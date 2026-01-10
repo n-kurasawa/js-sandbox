@@ -1,2 +1,2 @@
-import { main } from "./option/index.js";
+import { main } from "./chapter07/index.js";
 main();
