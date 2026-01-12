@@ -1,2 +1,2 @@
-import { main } from "./chapter07/index.js";
+import { main } from "./chapter08/index.js";
 main();
